@@ -6,7 +6,7 @@
 
     <groupId>com.brihaspathee.artemis</groupId>
     <artifactId>artemis-common-library</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>artemis-common-library</name>
     <description>Common Classes for all Artemis Microservices</description>
@@ -24,6 +24,14 @@
             <url>http://www.opensource.org/licenses/mit-license.php</url>
         </license>
     </licenses>
+
+    <scm>
+        <connection>scm:git:git://github.com/Artemis-2-0/artemis-common-library.git</connection>
+        <!--        <developerConnection>scm:git:ssh://github.com:Zeus-2-0/zeus-library.git</developerConnection>-->
+        <developerConnection>scm:git:git@github.com:Artemis-2-0/artemis-common-library.git</developerConnection>
+        <url>scm:git:http://github.com/Artemis-2-0/artemis-common-library</url>
+        <tag>artemis-common-library</tag>
+    </scm>
 
     <developers>
         <developer>
