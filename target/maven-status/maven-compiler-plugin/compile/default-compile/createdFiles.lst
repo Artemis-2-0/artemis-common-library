@@ -1,3 +1,5 @@
+com/brihaspathee/artemis/web/exception/APIException$APIExceptionBuilder.class
+com/brihaspathee/artemis/web/response/ArtemisAPIResponse$ArtemisAPIResponseBuilder.class
 com/brihaspathee/artemis/web/response/ArtemisAPIResponse.class
 com/brihaspathee/artemis/Main.class
-com/brihaspathee/artemis/web/response/ArtemisAPIResponse$ArtemisAPIResponseBuilder.class
+com/brihaspathee/artemis/web/exception/APIException.class
