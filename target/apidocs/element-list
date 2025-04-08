@@ -1,4 +1,5 @@
 com.brihaspathee.artemis
 com.brihaspathee.artemis.dto
+com.brihaspathee.artemis.dto.auth
 com.brihaspathee.artemis.web.exception
 com.brihaspathee.artemis.web.response

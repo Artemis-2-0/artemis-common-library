@@ -6,7 +6,7 @@
 
     <groupId>com.brihaspathee.artemis</groupId>
     <artifactId>artemis-common-library</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>artemis-common-library</name>
     <description>Common Classes for all Artemis Microservices</description>
