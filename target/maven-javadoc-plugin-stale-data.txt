@@ -19,11 +19,12 @@
 -docencoding
 'UTF-8'
 -doctitle
-'artemis-common-library 1.0.1 API'
+'artemis-common-library 1.0.2 API'
 -use
 -version
 -windowtitle
-'artemis-common-library 1.0.1 API'
+'artemis-common-library 1.0.2 API'
+com.brihaspathee.artemis.dto
 com.brihaspathee.artemis.web.response
 com.brihaspathee.artemis.web.exception
 com.brihaspathee.artemis
@@ -35,24 +36,24 @@ com.brihaspathee.artemis
 /Users/balaji/.m2/repository/io/micrometer/micrometer-observation/1.14.5/micrometer-observation-1.14.5.jar = 1741605089000
 /Users/balaji/.m2/repository/io/micrometer/micrometer-commons/1.14.5/micrometer-commons-1.14.5.jar = 1741605087000
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java = 1743705001791
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/generated-sources/annotations = 1743715997815
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/tag-search-index.js = 1743715999339
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/overview-tree.html = 1743715999329
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/module-search-index.js = 1743715999338
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/index.html = 1743715999330
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/package-search-index.js = 1743715999338
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/link.svg = 1743715999349
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/index-all.html = 1743715999343
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/allpackages-index.html = 1743715999337
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/member-search-index.js = 1743715999339
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/copy.svg = 1743715999349
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/script.js = 1743715999348
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/stylesheet.css = 1743715999348
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search-page.js = 1743715999350
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/overview-summary.html = 1743715999345
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/help-doc.html = 1743715999346
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/element-list = 1743715999306
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search.html = 1743715999344
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/allclasses-index.html = 1743715999335
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/type-search-index.js = 1743715999338
-/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search.js = 1743715999350
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/generated-sources/annotations = 1744124473875
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/tag-search-index.js = 1744124475578
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/overview-tree.html = 1744124475567
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/module-search-index.js = 1744124475576
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/index.html = 1744124475569
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/package-search-index.js = 1744124475577
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/link.svg = 1744124475590
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/index-all.html = 1744124475583
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/allpackages-index.html = 1744124475576
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/member-search-index.js = 1744124475578
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/copy.svg = 1744124475590
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/script.js = 1744124475589
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/stylesheet.css = 1744124475589
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search-page.js = 1744124475591
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/overview-summary.html = 1744124475585
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/help-doc.html = 1744124475587
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/element-list = 1744124475530
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search.html = 1744124475584
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/allclasses-index.html = 1744124475574
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/type-search-index.js = 1744124475578
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search.js = 1744124475591

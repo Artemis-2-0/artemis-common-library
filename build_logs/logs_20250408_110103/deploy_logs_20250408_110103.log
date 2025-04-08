@@ -1,0 +1,142 @@
+[INFO] Scanning for projects...
+[INFO] Inspecting build with total of 1 modules
+[INFO] Installing Central Publishing features
+[INFO] 
+[INFO] ----------< com.brihaspathee.artemis:artemis-common-library >-----------
+[INFO] Building artemis-common-library 1.0.2
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ artemis-common-library ---
+[INFO] Deleting /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ artemis-common-library ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ artemis-common-library ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 4 source files to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ artemis-common-library ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ artemis-common-library ---
+[INFO] Changes detected - recompiling the module!
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ artemis-common-library ---
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ artemis-common-library ---
+[INFO] Building jar: /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar
+[INFO] 
+[INFO] --- maven-source-plugin:3.2.1:jar-no-fork (attach-sources) @ artemis-common-library ---
+[INFO] Building jar: /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar
+[INFO] 
+[INFO] --- maven-javadoc-plugin:3.3.0:jar (attach-javadocs) @ artemis-common-library ---
+[ERROR] Error fetching link: /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/javadoc-bundle-options. Ignored it.
+[INFO] No previous run data found, generating javadoc.
+[WARNING] Javadoc Warnings
+[WARNING] Loading source files for package com.brihaspathee.artemis.dto...
+[WARNING] Loading source files for package com.brihaspathee.artemis.web.response...
+[WARNING] Loading source files for package com.brihaspathee.artemis.web.exception...
+[WARNING] Loading source files for package com.brihaspathee.artemis...
+[WARNING] Constructing Javadoc information...
+[WARNING] Building index for all the packages and classes...
+[WARNING] Standard Doclet version 21.0.3+7-LTS-152
+[WARNING] Building tree for all the packages and classes...
+[WARNING] /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/web/response/ArtemisAPIResponse.java:22: warning: no @param for <E>
+[WARNING] public class ArtemisAPIResponse<E> {
+[WARNING] ^
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/exception/APIException.html...
+[WARNING] /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/web/exception/APIException.java:19: warning: use of default constructor, which does not provide a comment
+[WARNING] public class APIException {
+[WARNING] ^
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/response/ArtemisAPIResponse.html...
+[WARNING] /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/web/response/ArtemisAPIResponse.java:22: warning: use of default constructor, which does not provide a comment
+[WARNING] public class ArtemisAPIResponse<E> {
+[WARNING] ^
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/Main.html...
+[WARNING] /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/Main.java:12: warning: use of default constructor, which does not provide a comment
+[WARNING] public class Main {
+[WARNING] ^
+[WARNING] /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/Main.java:13: warning: no comment
+[WARNING] public static void main(String[] args) {
+[WARNING] ^
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/dto/WelcomeDto.html...
+[WARNING] /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/dto/WelcomeDto.java:19: warning: use of default constructor, which does not provide a comment
+[WARNING] public class WelcomeDto {
+[WARNING] ^
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/package-summary.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/package-tree.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/dto/package-summary.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/dto/package-tree.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/exception/package-summary.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/exception/package-tree.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/response/package-summary.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/response/package-tree.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/dto/class-use/WelcomeDto.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/response/class-use/ArtemisAPIResponse.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/exception/class-use/APIException.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/class-use/Main.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/package-use.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/dto/package-use.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/exception/package-use.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/com/brihaspathee/artemis/web/response/package-use.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/overview-tree.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/index.html...
+[WARNING] Building index for all classes...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/allclasses-index.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/allpackages-index.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/index-all.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/search.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/overview-summary.html...
+[WARNING] Generating /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/apidocs/help-doc.html...
+[WARNING] 6 warnings
+[INFO] Building jar: /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar
+[INFO] 
+[INFO] --- maven-gpg-plugin:1.5:sign (sign-artifacts) @ artemis-common-library ---
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ artemis-common-library ---
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/pom.xml to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.pom
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-sources.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-javadoc.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar.asc to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.jar.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.pom.asc to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.pom.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar.asc to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-sources.jar.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar.asc to /Users/balaji/.m2/repository/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-javadoc.jar.asc
+[INFO] 
+[INFO] --- central-publishing-maven-plugin:0.6.0:publish (injected-central-publishing) @ artemis-common-library ---
+[INFO] Using Central baseUrl: https://central.sonatype.com
+[INFO] Using credentials from server id central in settings.xml
+[INFO] Using Usertoken auth, with namecode: PxBaSSrO
+[INFO] Staging 7 files
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/pom.xml to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.pom
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-sources.jar
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-javadoc.jar
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.jar.asc to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.jar.asc
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.pom.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2.pom.asc to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2.pom.asc
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-sources.jar.asc to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-sources.jar.asc
+[INFO] Staging /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar.asc
+[INFO] Installing /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/artemis-common-library-1.0.2-javadoc.jar.asc to /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/1.0.2/artemis-common-library-1.0.2-javadoc.jar.asc
+[INFO] Pre Bundling - deleted /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/com/brihaspathee/artemis/artemis-common-library/maven-metadata-central-staging.xml
+[INFO] Generate checksums for dir: com/brihaspathee/artemis/artemis-common-library/1.0.2
+[INFO] Going to create /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-publishing/central-bundle.zip by bundling content at /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging
+[INFO] Created bundle successfully /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-staging/central-bundle.zip
+[INFO] Going to upload /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/target/central-publishing/central-bundle.zip
+[INFO] Uploaded bundle successfully, deployment name: Deployment, deploymentId: 004f9118-b3b9-4ab0-9a0c-d4c9ec7414e6. Deployment will require manual publishing
+[INFO] Waiting until Deployment 004f9118-b3b9-4ab0-9a0c-d4c9ec7414e6 is validated
+[INFO] Deployment 004f9118-b3b9-4ab0-9a0c-d4c9ec7414e6 has been validated. To finish publishing visit https://central.sonatype.com/publishing/deployments
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  24.559 s
+[INFO] Finished at: 2025-04-08T11:01:38-04:00
+[INFO] ------------------------------------------------------------------------

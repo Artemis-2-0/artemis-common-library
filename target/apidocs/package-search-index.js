@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.brihaspathee.artemis"},{"l":"com.brihaspathee.artemis.web.exception"},{"l":"com.brihaspathee.artemis.web.response"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.brihaspathee.artemis"},{"l":"com.brihaspathee.artemis.dto"},{"l":"com.brihaspathee.artemis.web.exception"},{"l":"com.brihaspathee.artemis.web.response"}];updateSearchResults();

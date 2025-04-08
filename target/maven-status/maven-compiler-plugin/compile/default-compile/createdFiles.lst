@@ -1,5 +1,7 @@
+com/brihaspathee/artemis/web/response/ArtemisAPIResponse.class
+com/brihaspathee/artemis/dto/WelcomeDto.class
+com/brihaspathee/artemis/dto/WelcomeDto$WelcomeDtoBuilder.class
+com/brihaspathee/artemis/web/exception/APIException.class
 com/brihaspathee/artemis/web/exception/APIException$APIExceptionBuilder.class
 com/brihaspathee/artemis/web/response/ArtemisAPIResponse$ArtemisAPIResponseBuilder.class
-com/brihaspathee/artemis/web/response/ArtemisAPIResponse.class
 com/brihaspathee/artemis/Main.class
-com/brihaspathee/artemis/web/exception/APIException.class
