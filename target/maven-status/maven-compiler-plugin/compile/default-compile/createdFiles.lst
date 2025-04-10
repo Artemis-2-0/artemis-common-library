@@ -13,3 +13,5 @@ com/brihaspathee/artemis/dto/WelcomeDto.class
 com/brihaspathee/artemis/dto/auth/AuthenticationResponse$AuthenticationResponseBuilder.class
 com/brihaspathee/artemis/dto/auth/AuthenticationRequest.class
 com/brihaspathee/artemis/web/response/ArtemisAPIResponse$ArtemisAPIResponseBuilder.class
+com/brihaspathee/artemis/dto/auth/AuthorizationRequest$AuthorizationRequestBuilder.class
+com/brihaspathee/artemis/dto/auth/AuthorizationRequest.class
