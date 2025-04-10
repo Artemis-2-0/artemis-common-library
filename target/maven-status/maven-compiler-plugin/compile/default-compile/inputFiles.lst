@@ -1,6 +1,8 @@
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/dto/auth/AuthorityDto.java
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/Main.java
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/dto/auth/AuthenticationResponse.java
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/web/response/ArtemisAPIResponse.java
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/dto/auth/AuthenticationRequest.java
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/web/exception/APIException.java
+/Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/dto/resource/ResourceDto.java
 /Users/balaji/Documents/mac-mini/Projects.nosync/artemis/services/artemis-common-library/src/main/java/com/brihaspathee/artemis/dto/WelcomeDto.java
