@@ -47,6 +47,18 @@ public class AuthenticationRequest {
     private String password;
 
     /**
+     * Represents the type of account for an authentication request.
+     * The account type is subject to the following validation constraints:
+     * - It cannot be null.
+     * - It cannot be blank (must contain non-whitespace characters).
+     * - It must have a minimum length of 3 characters.
+     */
+    @NotNull(message = "AccountType cannot be null")
+    @NotBlank(message = "AccountType cannot be blank")
+    @Size(min = 3, message = "AccountType must be at least three characters")
+    private String accountType;
+
+    /**
      * Returns a string representation of the AuthenticationRequest object.
      * The string includes the values of the username and password fields.
      *
